@@ -1,5 +1,5 @@
 import React from 'react'
 
-export const Intermediate = () => {
+export default function Intermediate() {
   return <div>Intermediate</div>
 }

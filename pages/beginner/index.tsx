@@ -1,5 +1,5 @@
 import React from 'react'
 
-export const Beginner = () => {
+export default function Beginner() {
   return <div>index</div>
 }

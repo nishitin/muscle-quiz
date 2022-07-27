@@ -1,5 +1,5 @@
 import React from 'react'
 
-export const Advanced = () => {
+export default function Advanced() {
   return <div>index</div>
 }
